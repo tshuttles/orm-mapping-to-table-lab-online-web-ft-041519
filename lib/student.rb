@@ -28,6 +28,7 @@ class Student
   end 
   
   def save 
+    sql = 
   end 
   
   def self.create 
